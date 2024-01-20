@@ -18,7 +18,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: https://kairosmath.ai
+    url: https://kairosmath.com
 
 docs-ko:
   - title:      ChatGPT 미적분학
