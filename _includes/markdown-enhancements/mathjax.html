@@ -1,0 +1,27 @@
+{%- include snippets/get-sources.html -%}
+{%- assign _sources = __return -%}
+
+{%- include snippets/assign.html target=site.data.variables.default.mathjax_autoNumber
+  source0=site.mathjax_autoNumber source1=page.mathjax_autoNumber -%}
+{%- assign _mathjax_autoNumber = __return -%}
+
+<script type="text/x-mathjax-config">
+	{%- if _mathjax_autoNumber == true -%}
+	{%- endif -%}
+	MathJax.Hub.Config({
+			extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "a11y/accessibility-menu.js"],
+			jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+			tex2jax: {
+			  inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+			  displayMath: [ ['$$','$$'], ['\\[','\\]'] ],
+			  processEnvironments: true,
+			  processEscapes: false,
+			},
+			'HTML-CSS': { availableFonts: ['TeX'] },
+			TeX: {
+				extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js", "color.js"]
+			  },
+		  });
+</script>
+
+<script type="text/javascript" src="{{ _sources.mathjax }}"></script>

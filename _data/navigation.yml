@@ -1,0 +1,35 @@
+header:
+
+  - titles:
+      ko      : &KO       한국어
+      ko-KR   : *KO
+      en      : &EN       한국어
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /2019/09/08/LHopital_rule.html
+
+  - titles:
+      ko      : &KO       앤서드 강의
+      ko-KR   : *KO
+      en      : &EN       Answered Lecture
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: https://www.answered.co.kr
+
+docs-ko:
+  - title:      공통수학I (구 고등수학 (상))
+    children:
+      - title:  다항식의 뜻
+        url:    2023/08/01/01_01)meaning_of_polynomials.html
+      - title:  다항식의 정리
+        url:    2023/08/01/01_02)simplifying_polynomials.html
+      - title:  다항식의 덧셈과 뺄셈
+        url:    2023/08/01/01_03)addition_and_subtraction_of_polynomials.html
+      - title:  지수법칙
+        url:    2023/08/01/01_04)law_of_exponents.html
+      - title:  다항식의 곱셈
+        url:    2023/08/01/01_05)multiplication_of_polynomials.html
