@@ -1,16 +1,15 @@
 ---
-title: ChatGPT로 미적분학 공부하기 (1) 적분 및 질문
+title: ChatGPT로 미적분학 공부하기 (2) 이변수함수의 극점과 안장점
 sidebar:
   nav: docs-ko
 aside:
   toc: true
 key: 20240120
-tags: ChatGPT 미적분학 적분
+tags: ChatGPT 미적분학 편미분 안장점 'saddle point'
 lang: ko
 ---
 
-
-이변수함수의 Hessian 행렬을 이용하여 극점과 saddle point를 구해달라고 요청해봅시다.
+이변수함수의 헤시안 행렬(Hessian matrix)을 이용하여 극점(extrema)과 안장점(saddle point)을 구해달라고 요청해봅시다.
 >[!user] User
 > Find the local maximum and minimum values and saddle points of the functions:
 (a) $f(x, y)=\frac{1}{x}+x y+\frac{1}{y}$,
