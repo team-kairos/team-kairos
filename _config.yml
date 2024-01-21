@@ -52,8 +52,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: team-kairos/team-kairos.github.io
-repository_tree: master
+repository: team-kairos
+repository_tree: main
 
 
 ## => Paths
