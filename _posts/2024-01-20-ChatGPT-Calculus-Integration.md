@@ -10,7 +10,11 @@ lang: ko
 ---
 
 ChatGPT에게 적분 문제 풀이를 요청해봅시다.
-{% include note.html markdown="span" content="$4\displaystyle \int_0 ^{\frac\pi3} (8\cos^3 \theta - 1)\cos\theta d\theta$" %} 
+{% include user.html content="$4\displaystyle \int_0 ^{\frac\pi3} (8\cos^3 \theta - 1)\cos\theta d\theta$. " %}
+
+>[!user] User
+> 
+$4\displaystyle \int_0 ^{\frac\pi3} (8\cos^3 \theta - 1)\cos\theta d\theta$. 
 
 >[!gpt] ChatGPT
 > The integral of $4 \int_0^{\pi/3} (8\cos^3 \theta - 1)\cos\theta \, d\theta$ evaluates to $\frac{3 \sqrt{3}}{2} + 4\pi$.
