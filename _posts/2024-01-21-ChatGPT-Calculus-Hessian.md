@@ -5,7 +5,7 @@ sidebar:
 aside:
   toc: true
 key: 20240121
-tags: ChatGPT 미적분학 편미분 안장점 'saddle point'
+tags: ChatGPT 미적분학 편미분 안장점 saddle-point
 lang: ko
 ---
 
