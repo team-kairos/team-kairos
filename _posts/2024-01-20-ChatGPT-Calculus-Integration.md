@@ -5,7 +5,7 @@ sidebar:
 aside:
   toc: true
 key: 20240120
-tags: ChatGPT, 미적분학
+tags: ChatGPT 미적분학 적분
 lang: ko
 ---
 
@@ -106,3 +106,18 @@ ChatGPT가 자세한 설명을 해주었지만, 수식보다는 문장으로 상
 > The detailed calculations, especially for the first integral involving $\cos^4(\theta)$, require a bit of work. The power-reducing step is particularly important as it simplifies the integral into a form that can be easily integrated.
 
 이처럼 문제풀이에 대해 상세한 답을 얻을 수 있고, 답변 스타일도 원하는 방식으로 조정할 수 있습니다.
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
