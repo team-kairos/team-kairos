@@ -1,13 +1,13 @@
----  
-title: ChatGPT로 미적분학 공부하기 (4) 다변수함수의 미분  
-sidebar:   
-  nav: docs-ko  
-aside:   
-  toc: true  
-key: 20240123  
-tags: ChatGPT 미적분학 다변수함수 미분  
-lang: ko  
----  
+---
+title: ChatGPT로 미적분학 공부하기 (4) 다변수함수의 미분
+sidebar:
+  nav: docs-ko
+aside:
+  toc: true
+key: 20240123
+tags: ChatGPT 미적분학 다변수함수 미분
+lang: ko
+---
   
 두 삼변수함수 $f, g$의 곱으로 표현된 삼변수함수 $h$의 순간변화율을 구해달라고 요청해봅시다.  
 >[!user] User  
