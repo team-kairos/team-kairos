@@ -1,10 +1,10 @@
 ---  
-title: ChatGPT로 미적분학 공부하기 (7) Flux  
+title: ChatGPT로 미적분학 공부하기 (8) Flux  
 sidebar:   
 nav: docs-ko  
 aside:   
 toc: true  
-key: 20240126  
+key: 20240127  
 tags:  
   - ChatGPT  
   - 미적분학  
