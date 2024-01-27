@@ -1,7 +1,17 @@
 header:
 
   - titles:
-      ko      : &KO       Notion
+      ko      : &KO       한국어
+      ko-KR   : *KO
+      en      : &EN       Korean
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: 2024/01/20/ChatGPT-Calculus-Integration.html
+
+  - titles:
+      ko      : &KO       노션
       ko-KR   : *KO
       en      : &EN       Notion
       en-GB   : *EN
