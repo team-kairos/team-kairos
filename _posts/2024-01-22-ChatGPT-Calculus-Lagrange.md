@@ -4,7 +4,7 @@ sidebar:
   nav: docs-ko
 aside:
   toc: true
-key: 20240121
+key: 20240122
 tags: ChatGPT 미적분학 편미분 라그랑주 Lagrange
 lang: ko
 --- 
