@@ -5,11 +5,7 @@ sidebar:
 aside:   
   toc: true  
 key: 20240127  
-tags:  
-  - ChatGPT  
-  - 미적분학  
-  - 벡터적분  
-  - Flux  
+tags: ChatGPT 미적분학 벡터적분 Flux  
 lang: ko  
 ---  
   

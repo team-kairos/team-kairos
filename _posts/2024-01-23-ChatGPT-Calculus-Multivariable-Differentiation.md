@@ -5,11 +5,7 @@ sidebar:
 aside:   
   toc: true  
 key: 20240123  
-tags:  
-  - ChatGPT  
-  - 미적분학  
-  - 다변수함수  
-  - 미분  
+tags: ChatGPT 미적분학 다변수함수 미분  
 lang: ko  
 ---  
   

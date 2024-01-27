@@ -5,15 +5,7 @@ sidebar:
 aside:   
   toc: true  
 key: 20240126  
-tags:  
-  - ChatGPT  
-  - 미적분학  
-  - 벡터적분  
-  - Stokes  
-  - 스톡스  
-  - 스토크스  
-  - 스톡스정리  
-  - 스토크스정리  
+tags: ChatGPT 미적분학 벡터적분 Stokes 스톡스 스토크스 스톡스정리 스토크스정리  
 lang: ko  
 ---  
   

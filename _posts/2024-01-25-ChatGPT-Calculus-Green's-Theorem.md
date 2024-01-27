@@ -5,11 +5,7 @@ sidebar:
 aside:   
   toc: true  
 key: 20240125  
-tags:  
-  - ChatGPT  
-  - 미적분학  
-  - 그린정리  
-  - 벡터적분  
+tags: ChatGPT 미적분학 그린정리 벡터적분  
 lang: ko  
 ---  
   

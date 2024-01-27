@@ -5,12 +5,7 @@ sidebar:
 aside:   
   toc: true  
 key: 20240124  
-tags:  
-  - ChatGPT  
-  - 미적분학  
-  - 이중적분  
-  - 삼중적분  
-  - 부피  
+tags: ChatGPT 미적분학 이중적분 삼중적분 부피  
 lang: ko  
 ---  
   
