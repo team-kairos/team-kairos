@@ -1,9 +1,9 @@
 ---  
 title: ChatGPT로 미적분학 공부하기 (6) 그린정리  
 sidebar:   
-nav: docs-ko  
+  nav: docs-ko  
 aside:   
-toc: true  
+  toc: true  
 key: 20240125  
 tags:  
   - ChatGPT  

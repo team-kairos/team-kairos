@@ -1,9 +1,9 @@
 ---  
 title: ChatGPT로 미적분학 공부하기 (5) 이중적분과 삼중적분 
 sidebar:   
-nav: docs-ko  
+  nav: docs-ko  
 aside:   
-toc: true  
+  toc: true  
 key: 20240124  
 tags:  
   - ChatGPT  
