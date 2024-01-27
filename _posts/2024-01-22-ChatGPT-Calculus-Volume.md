@@ -1,5 +1,5 @@
 ---  
-title: 2024-01-22-ChatGPT-Calculus-Volume  
+title: ChatGPT로 미적분학 공부하기 (4) 이중적분과 삼중적분 
 sidebar:   
 nav: docs-ko  
 aside:   
