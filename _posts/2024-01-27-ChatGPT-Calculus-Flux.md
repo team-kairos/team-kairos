@@ -11,8 +11,6 @@ tags:
   - 벡터적분  
   - Flux  
 lang: ko  
-share: "true"  
-category: _posts  
 ---  
   
 Flux를 구하는 문제를 풀어달라고 요청해봅시다.  

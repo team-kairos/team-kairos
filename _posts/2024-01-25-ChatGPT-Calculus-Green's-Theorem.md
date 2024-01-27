@@ -11,8 +11,6 @@ tags:
   - 그린정리  
   - 벡터적분  
 lang: ko  
-share: "true"  
-category: _posts  
 ---  
   
   

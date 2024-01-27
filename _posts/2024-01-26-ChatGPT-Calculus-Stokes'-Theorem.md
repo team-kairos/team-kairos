@@ -15,8 +15,6 @@ tags:
   - 스톡스정리  
   - 스토크스정리  
 lang: ko  
-share: "true"  
-category: _posts  
 ---  
   
 > [!user] User  

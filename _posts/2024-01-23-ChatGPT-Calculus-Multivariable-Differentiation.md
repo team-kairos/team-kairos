@@ -11,8 +11,6 @@ tags:
   - 다변수함수  
   - 미분  
 lang: ko  
-share: "true"  
-category: _posts  
 ---  
   
 두 삼변수함수 $f, g$의 곱으로 표현된 삼변수함수 $h$의 순간변화율을 구해달라고 요청해봅시다.  
