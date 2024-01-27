@@ -4,7 +4,7 @@ sidebar:
 nav: docs-ko  
 aside:   
 toc: true  
-key: 20240123  
+key: 20240124  
 tags:  
   - ChatGPT  
   - 미적분학  
