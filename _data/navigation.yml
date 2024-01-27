@@ -1,16 +1,6 @@
 header:
 
   - titles:
-      ko      : &KO       한국어
-      ko-KR   : *KO
-      en      : &EN       한국어
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-    url: 2024/01/20/ChatGPT-Calculus-Integration.html
-
-  - titles:
       ko      : &KO       Notion
       ko-KR   : *KO
       en      : &EN       Notion
@@ -20,7 +10,7 @@ header:
       en-AU   : *EN
     url: https://kairosmath.com
 
-docs-ko:
+docs-en:
   - title:      ChatGPT 미적분학
     children:
       - title:  (1) 적분 계산
