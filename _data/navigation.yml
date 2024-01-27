@@ -20,7 +20,7 @@ header:
       en-AU   : *EN
     url: https://kairosmath.com
 
-docs-en:
+docs-ko:
   - title:      ChatGPT 미적분학
     children:
       - title:  (1) 적분 계산
