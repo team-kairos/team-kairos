@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 사용편의 프로그램 (3) ScanTexter + DeepL (macOS)
+title: ChatGPT 사용편의 프로그램 (3) ScanTexter와 DeepL (macOS)
 sidebar:
   nav: docs-ko
 aside:
@@ -9,6 +9,7 @@ tags: ChatGPT 편의기능 프로그램 앱 ScanTexter DeepL
 lang: ko
 ---
 
+## DeepL로 ScanTexter 번역 품질 향상시키기
 ScanTexter의 기본 번역은 나쁘지 않은 수준이지만, DeepL API를 사용하면 번역 품질을 대폭 상승시킬 수 있습니다. 또한 DeepL에 접속하지 않고 손쉽게 번역을 할 수 있을 뿐만 아니라, 번역했던 내역이 기록되어 편리합니다.
 
 Premium 구독을 결제하면 별도의 설정 없이 바로 DeepL 번역을 제한없이 사용할 수 있습니다. Pro 결제 후 DeepL Free API를 발급받으면 월 50만자까지 무료로 DeepL 번역을 이용할 수 있습니다. 이 장에서는 Pro 결제를 가정하고 DeepL Free API를 발급받아 등록하는 방법을 설명합니다.
