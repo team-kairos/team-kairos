@@ -5,7 +5,7 @@ sidebar:
 aside:
   toc: true
 key: 20240129
-tags: ChatGPT 편의기능 프로그램 앱 ScanTexter
+tags: ChatGPT OCR 번역 ScanTexter 편의기능 프로그램 앱
 lang: ko
 ---
 
