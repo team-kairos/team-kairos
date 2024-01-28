@@ -21,6 +21,14 @@ header:
     url: https://kairosmath.com
 
 docs-ko:
+  - title:      ChatGPT 사용편의 프로그램
+    children:
+      - title:  (1) DeepL 고품질 번역
+        url:    2024/01/28/DeepL
+      - title:  (2) ScanTexter(macOS)로 캡쳐한 문자열 인식과 자동번역
+        url:    2024/01/29/ScanTexter
+      - title:  (3) ScanTexter + DeepL(macOS)로 번역 품질 높이기
+        url:    2024/01/30/ScanTexter-and-DeepL
   - title:      ChatGPT 미적분학
     children:
       - title:  (1) 적분 계산
